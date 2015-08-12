@@ -40,5 +40,5 @@ TRACE_EVENT(devfreq_msg,
 #endif /* _DEVFREQ_TRACE_H */
 
 /* This part must be outside protection */
-#include <trace/define_trace.h>
+//#include "../../include/trace/define_trace.h"
 
